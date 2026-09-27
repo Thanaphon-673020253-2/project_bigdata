@@ -1,5 +1,11 @@
-.venv/
-
-*.jsonl
-
+# Large datasets
+Part_1/data/raw/
 Part_2/data/data.csv
+
+# Python environment
+.venv/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
