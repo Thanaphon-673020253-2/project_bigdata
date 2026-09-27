@@ -1,3 +1,5 @@
 .venv/
 
 *.jsonl
+
+Part_2/data/data.csv
