@@ -1,6 +1,6 @@
 # Large datasets
 Part_1/data/raw/
-Part_2/data/data.csv
+Part_2/data/
 
 # Python environment
 .venv/
